@@ -1,4 +1,2 @@
-# rndproj-780xg824
-
-Random config project for playground.
-
+# rndproj-780xg824\n\nSmall CLI tool for text cleanup and formatting.\n
+New-FileDef
