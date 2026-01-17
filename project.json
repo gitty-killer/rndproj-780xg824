@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-780xg824"",
-  ""goal"": ""ETL pipeline for billing"",
-  ""language"": ""rust"",
-  ""template"": ""rust-lib""
+    "name":  "rndproj-780xg824",
+    "goal":  "ETL pipeline for billing",
+    "language":  "rust",
+    "template":  "rust-lib"
 }
